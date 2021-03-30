@@ -8,3 +8,12 @@ bin/com/schoolmanagement/objects/Teacher.class
 bin/com/schoolmanagement/utils/Menu.class
 bin/com/schoolmanagement/utils/SchoolXOMElementConverter.class
 bin/com/schoolmanagement/utils/XOMSchoolInput.class
+bin/.DS_Store
+bin/com/.DS_Store
+bin/com/schoolmanagement/containers/Formats.class
+bin/com/schoolmanagement/exception/ClassroomExistsException.class
+bin/com/schoolmanagement/interfaces/ApplicationOutput.class
+bin/com/schoolmanagement/interfaces/ClassroomAssignmentImplementation.class
+bin/com/schoolmanagement/interfaces/Identifiable.class
+*.class
+schoolManagementSystem.xml
