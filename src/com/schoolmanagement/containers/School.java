@@ -111,7 +111,7 @@ public class School{
 	}
 	public static void listTeachers() {
 		System.out.printf(Formats.TEACHER_HEADER_FORMAT, "ID", "Teacher Name", "Current Class");
-		System.out.println("-----------------------------------------");
+		System.out.println("----------------------------------------");
 		for (int i = 0; i < teachers.size(); i++) {
 			Teacher t = teachers.get(i);
 			System.out.printf(Formats.TEACHER_LIST_FORMAT, t.getId(), t.getFullName(), t.getAssignedClass() != null ? t.getAssignedClass() : "");
