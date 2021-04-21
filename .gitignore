@@ -17,3 +17,4 @@ bin/com/schoolmanagement/interfaces/ClassroomAssignmentImplementation.class
 bin/com/schoolmanagement/interfaces/Identifiable.class
 *.class
 schoolManagementSystem.xml
+.DS_Store
